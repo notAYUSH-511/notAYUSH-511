@@ -8,4 +8,4 @@
 notAYUSH-511/notAYUSH-511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=ayush_511&animated=true" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=ayush_511&animated=true&theme=black" alt="LeetCode Badges" />
